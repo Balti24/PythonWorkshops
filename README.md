@@ -23,7 +23,7 @@ Celem warsztatów jest samodzielne usprawnienie kodu, z poprawnym użyciem kontr
 > - [Short Git tutorial](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 > - [Git cheatsheet](https://training.github.com/downloads/pl/github-git-cheat-sheet/)
 > - [Gitflow](https://www.atlassian.com/pl/git/tutorials/comparing-workflows/gitflow-workflow)
-
+dupa
 ### Authors
 [Piotr Mikler <piotr.mikler1997@gmail.com>](https://github.com/PiotMik)
 
